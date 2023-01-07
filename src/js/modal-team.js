@@ -9,7 +9,7 @@ const teamSplide = new Splide('.splide', {
   type: 'slide',
   // perPage: 4,
   rewind: false,
-  height: '300px',
+  height: '310px',
   width: '900px',
   gap: '5px',
   keyboard: 'global',
@@ -35,7 +35,7 @@ const teamSplide = new Splide('.splide', {
     },
     1279: {
       height: '210px',
-      width: '700px',
+      width: '750px',
     },
   },
 });
