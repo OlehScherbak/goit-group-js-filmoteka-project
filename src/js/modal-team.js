@@ -30,7 +30,7 @@ const teamSplide = new Splide('.splide', {
       direction: 'ttb',
       perPage: 2,
       perMove: 1,
-      height: 650,
+      height: 700,
       grid: false,
     },
     1279: {
