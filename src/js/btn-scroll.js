@@ -52,7 +52,7 @@ const btnBottom = {
      document.querySelector('.btn-bottom').onclick = () => {
    
       window.scrollTo({
-        top: 5000,
+        top: 15000,
         left: 0,
         behavior: 'smooth'
       });
