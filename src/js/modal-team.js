@@ -9,7 +9,7 @@ const teamSplide = new Splide('.splide', {
   type: 'slide',
   // perPage: 4,
   rewind: false,
-  height: '290px',
+  height: '300px',
   width: '900px',
   gap: '5px',
   keyboard: 'global',
