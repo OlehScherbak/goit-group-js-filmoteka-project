@@ -31,7 +31,6 @@ const teamSplide = new Splide('.splide', {
       perPage: 2,
       perMove: 1,
       height: 650,
-      width: 250,
       grid: false,
     },
     1279: {
