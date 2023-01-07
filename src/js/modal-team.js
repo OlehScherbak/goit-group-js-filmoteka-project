@@ -31,11 +31,12 @@ const teamSplide = new Splide('.splide', {
       perPage: 2,
       perMove: 1,
       height: 650,
+      width: 250,
       grid: false,
     },
     1279: {
-      height: '210px',
-      width: '750px',
+      height: '220px',
+      width: '700px',
     },
   },
 });
